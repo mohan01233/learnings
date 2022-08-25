@@ -47,6 +47,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Final Modification");
             l.Add("CTS CDX0102 Data Added");
             l.Add("New CDX0102 modified");
+            1.Add("Mohan Prasath S");
             return l;
         }
     }
